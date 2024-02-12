@@ -1,3 +1,47 @@
 body {
     background-color: black;
+    color: white;
+}
+
+.btn{
+    border: 0;
+}
+.btn1{
+    border: 0;
+}
+.btn2{
+    border: 0;
+}
+.btn3{
+    border: 0;
+}
+.btn4{
+    border: 0;
+}
+.btn5{
+    border: 0;
+}
+.btn6{
+    border: 1;
+    border-color: black;
+    border-radius: 5px;
+    font-size: large;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.watchnow {
+    border: 1;
+    border-radius: 5px;
+    border-color: black;
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+
+.test {
+    width: 300px;
 }
